@@ -1,0 +1,343 @@
+.textCenter {
+    text-align: center;
+}
+
+.textCenter:hover {
+    text-align: center;
+    color: #8db00a;
+    font-weight: bold;
+    font-size: large;
+}
+
+.logincolor {
+    color: green;
+}
+
+.aboutpadding {
+    margin-top: 10px;
+    font-weight: 900;
+    font-size: 30px;
+}
+
+.row1 {
+    margin-top: 15px;
+    height: 20rem;
+    width: 100%;
+}
+
+.bg {
+    background-color: #e2dac2b5;
+}
+
+.pad1 {
+    text-align: center;
+    font-size: 12px;
+}
+
+.pad1:hover {
+    text-align: center;
+    font-size: 14px;
+    color: red;
+    font-weight: bold;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.row3 {
+    height: 12rem;
+    margin-top: 35px;
+}
+
+.row4 {
+    height: 10rem;
+}
+
+.keep {
+    margin-top: 25px;
+    background-color: #8db00a;
+}
+
+.color1 {
+    color: red;
+}
+
+.pad {
+    padding-left: 15px;
+}
+
+.pad:hover {
+    padding-left: 15px;
+    color: blue;
+    font-weight: bold;
+}
+
+.bd1 {
+    background-color: #8db00a;
+    height: 11rem;
+    width: 100%;
+    margin-bottom: 1rem;
+    font-size: 20px;
+    font-weight: 700;
+    color: white;
+}
+
+.pad2 {
+    text-align: center;
+    padding-top: 3rem;
+}
+
+.pad2:hover {
+    text-align: center;
+    padding-top: 3rem;
+    color: black;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    font-variant: normal;
+}
+
+.box1 {
+    align-items: center;
+    border: 1px solid white;
+    width: 20rem;
+    height: 2rem;
+    background: white;
+    margin-left: 15rem;
+    margin-top: 2rem;
+}
+
+.pad3 {
+    padding: 3px;
+}
+
+.box2 {
+    border: 1px solid white;
+    background: white;
+    width: 4rem;
+    height: 2rem;
+}
+
+.color_lawngreen {
+    color: #8db00a;
+}
+
+.head360 {
+    text-align: center;
+    font-size: 32px;
+}
+
+.relative {
+    position: relative;
+}
+
+.absolute {
+    position: absolute;
+    top: -30px;
+    right: 0;
+}
+
+.itemcenter {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.circlered:hover {
+    height: 3rem;
+    width: 3rem;
+    border-radius: 3rem;
+    background-color: red;
+}
+
+.shortlinelawngreen {
+    border-bottom: 3px solid #8db00a;
+    width: 30px;
+    margin: 10px 0;
+}
+
+.simpleHead {
+    font-size: 22px;
+    text-align: center;
+    font-weight: 500;
+    color: black;
+}
+
+.simpleHead:hover {
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.boxfounder {
+    background-color: #e2dac2b5;
+    padding: 1rem;
+    height: 10rem;
+    margin-bottom: 1rem;
+}
+
+.boxfounderNews {
+    background-color: #e2dac2b5;
+    padding: 1rem;
+    height: 4rem;
+}
+
+.fontcolorWhite {
+    color: white;
+}
+
+.fontcolorWhite:hover {
+    font-size: 20px;
+    color: black;
+}
+
+.boxRound {
+    height: 8rem;
+    width: 8rem;
+    border-radius: 7rem;
+    background-color: #8db00a;
+}
+
+.boxRound:hover {
+    height: 9rem;
+    width: 9rem;
+    border-radius: 9rem;
+    background-color: red;
+}
+
+.fontSize14 {
+    font-size: 14px;
+    font-weight: 700;
+}
+
+.fontSize14:hover {
+    font-size: 14px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.fontSize20 {
+    font-size: 20px;
+}
+
+.marginbottom1rem {
+    margin-bottom: 1.5rem;
+}
+
+.circlered {
+    height: 2rem;
+    width: 2rem;
+    border-radius: 2rem;
+    background-color: red;
+}
+
+.margintop3rem {
+    margin-top: 3rem;
+}
+
+.fontstylebold {
+    font-weight: bold;
+}
+
+.searchinput {
+    border: 1px solid white;
+    font-size: 16px;
+}
+
+.backgroun12 {
+    background-image: url('ad1.jpg');
+    height: 12rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroun13 {
+    background-image: url('ad2.jpg');
+    height: 12rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroun14 {
+    background-image: url('ad3.jpg');
+    height: 12rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroun11 {
+    background-image: url('ad4.jpg');
+    height: 12rem;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.backgroun1 {
+    background-image: url('ad4.jpg');
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 20rem;
+}
+
+.boxwhite {
+    background-color: white;
+    height: 18rem;
+    width: 33px;
+    margin: 1rem -15px 0;
+}
+
+.whitebox2 {
+    padding: 3rem;
+    background-color: white;
+    height: 18rem;
+    width: 100%;
+    margin: 1rem -41px 0;
+}
+
+li.nav-item.active {
+    background: antiquewhite;
+    height: 2.5rem;
+}
+
+.itemcenterHeader {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+@media only screen and (max-width: 992px) {
+    .itemcenterHeader {
+        display: flex;
+        justify-content: flex-start;
+        align-items: center;
+    }
+}
+
+@media only screen and (max-width: 767px) {
+    .absolute {
+        position: absolute;
+        top: -7px;
+        right: 0;
+    }
+    .whitebox2 {
+        padding: 2rem;
+        background-color: white;
+        height: 18rem;
+        width: 100%;
+        margin: 1rem -41px 0;
+    }
+}
+
+@media only screen and (max-width: 575px) {
+    .whitebox2 {
+        padding: 2rem;
+        background-color: white;
+        height: 18rem;
+        width: 100%;
+        margin: 0;
+    }
+}
